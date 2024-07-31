@@ -1,0 +1,1 @@
+This Weather App is built using HTML, CSS, and JavaScript. It provides current weather updates, including temperature, humidity, and wind, for any location. Users can search for cities worldwide and view real-time weather conditions with a user-friendly interface.
